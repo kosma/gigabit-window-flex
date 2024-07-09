@@ -25,7 +25,7 @@ or as the world's weirdest Ethernet barrel. We won't judge.
 - Length: Flexible part is 265mm, but if you want you can customize it.
 - Source: PCB was designed in KiCad.
 - Length matching: yes (I was bored).
-- Impedance matching: believe or not - but yes!
+- Impedance matching: believe ut or not - but yes!
 
 ![impedance matching calculations](impedance.png)
 
