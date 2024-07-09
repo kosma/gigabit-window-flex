@@ -39,4 +39,4 @@ Ordering your flex PCB is straightforward. Simply download the necessary files f
 ![img_2.png](img_2.png)
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
