@@ -14,7 +14,7 @@ or as the world's weirdest Ethernet barrel. We won't judge.
 
 0. Make sure your house includes windows - it would be a shame to have nowhere to install this puppy.
 1. Order the [Gerber files](production/gigabit-window-flex.zip) from [JLCPCB](https://jlcpcb.com/)
-   or your favorite PCB manufacturer. The default flex stackup should work just fine.
+   or your favorite PCB manufacturer. Use the default 0.11mm flex stackup.
 2. Solder two RJ45 connectors. The pinout is very generic and most connectors will fit - like
    [this high-tech marvel of engineering](https://www.tme.eu/pl/details/rj45g/zlacza-rj/connfly/ds1134-05-s80bx/).
    Any connector should do - even something you found in the parts drawer or on some old board.
